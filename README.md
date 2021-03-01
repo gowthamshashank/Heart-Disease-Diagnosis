@@ -6,8 +6,10 @@ Flask based web app to diagnose the patient using Python3, Predicts the presence
 
 # Running the web app
 
-# . Install requirements
+  #Locally
+  
+ . Install requirements
 pip install -r requirements.txt
 
-# . Run flask web app
+ . Run flask web app
 python main_file.py
